@@ -1,0 +1,23 @@
+{
+  "cities": ["Selibaby", "Nouakchott", "Kaédi", "Boutlimit", "Rosso", "Atar", "Chinguetti"],
+  "categories": [
+    { "slug": "cereales", "name_fr": "Céréales" },
+    { "slug": "fruits", "name_fr": "Fruits" },
+    { "slug": "legumes", "name_fr": "Légumes" },
+    { "slug": "legumineuses", "name_fr": "Légumineuses" },
+    { "slug": "alimentation-animale", "name_fr": "Bétail / Alimentation animale" },
+    { "slug": "transformes", "name_fr": "Produits transformés" },
+    { "slug": "autres", "name_fr": "Autres" }
+  ],
+  "users": [
+    { "full_name": "Aminetou Ould Sidi", "role": "seller", "city": "Rosso", "phone": "+22236000001" },
+    { "full_name": "Moussa Ba", "role": "seller", "city": "Kaédi", "phone": "+22236000002" },
+    { "full_name": "Fatimetou Mint Ely", "role": "buyer", "city": "Nouakchott", "phone": "+22236000003" },
+    { "full_name": "Ahmed Ould Mohamed", "role": "buyer", "city": "Selibaby", "phone": "+22236000004" }
+  ],
+  "products": [
+    { "title": "Riz blanc local", "city": "Kaédi", "category": "cereales", "price": 260, "unit": "sac", "quantity": 40 },
+    { "title": "Tomate fraîche", "city": "Rosso", "category": "legumes", "price": 18, "unit": "kg", "quantity": 520 },
+    { "title": "Dattes séchées", "city": "Chinguetti", "category": "transformes", "price": 95, "unit": "kg", "quantity": 140 }
+  ]
+}
